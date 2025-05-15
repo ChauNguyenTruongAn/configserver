@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related local APIS"
+  message: "Welcome to EazyBank accounts related trollvn APIS"
   contactDetail:
     name: "John Doe - Developer"
     email: "john@gmail.com"
